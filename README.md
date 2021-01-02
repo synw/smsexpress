@@ -19,7 +19,7 @@ Run the cli: `dart bin/main.dart HZo4dC_zLjRXvikcQyfCsC8za4_LKIOit6r-lUsbmeM=` a
 connect to the device:
 
 ```
-? smsexpress » /d
+? command » /d
 📢 Soldier smsexpress connected at 192.168.1.6:8084
 Found soldier smsexpress at 192.168.1.6:8084
 ? command » /u
