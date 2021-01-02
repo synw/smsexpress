@@ -37,7 +37,7 @@ Using soldier smsexpress
 **sms**: send a sms to a contact:
 
 ```
-? rcontact » sms Name_of_contact This is the message text
+? smsexpress » sms Name_of_contact This is the message text
 ```
 
 Note: use _ to replace spaces in the contact names
