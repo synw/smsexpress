@@ -1,6 +1,8 @@
 # Sms express
 
-Send sms messages with a device and read contact list from a terminal. Powered by [Node Commander](https://github.com/synw/nodecommander)
+Tired of typing sms messages on a phone keyboard? Send sms messages with a device and read the contact list from a terminal. Powered by [Node Commander](https://github.com/synw/nodecommander)
+
+Note: the computer and device have to be on the same local network
 
 ## Usage
 
