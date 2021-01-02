@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Rcontact',
+      title: 'Sms Express',
       home: const HomePage(),
       theme: ThemeData.dark().copyWith(accentColor: Colors.blueGrey[300]),
     );
